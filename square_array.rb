@@ -7,8 +7,3 @@ squared_array = Array.new
   squared_array
 end
 
-def square_array(array)
-  array.collect{|num| num ** 2}
-end
-
-square_array(array)
