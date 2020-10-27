@@ -8,6 +8,6 @@
 # end
 #
 
-def squared_array(array)
+def square_array(array)
   array.map{|num| num * num}
 end
