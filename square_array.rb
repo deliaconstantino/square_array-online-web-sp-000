@@ -11,4 +11,4 @@ def square_array(array)
   array.collect{|num| num ** 2}
 end
 
-square_array([7, 8, 10])
+square_array(array)
