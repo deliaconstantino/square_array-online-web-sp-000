@@ -6,4 +6,3 @@ squared_array = Array.new
   end
   squared_array
 end
-
